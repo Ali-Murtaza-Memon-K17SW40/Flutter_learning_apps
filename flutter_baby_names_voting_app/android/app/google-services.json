@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "630170887662",
+    "firebase_url": "https://flutterbabynamesvotingapp.firebaseio.com",
+    "project_id": "flutterbabynamesvotingapp",
+    "storage_bucket": "flutterbabynamesvotingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630170887662:android:77e79b57c66779176f1aff",
+        "android_client_info": {
+          "package_name": "com.example.flutter_baby_names_voting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630170887662-9l4t5lt42ucmmefsb7s291kdnatig240.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHT66nKbJM1pW93_CKaUhPPxErQ_3PSoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630170887662-9l4t5lt42ucmmefsb7s291kdnatig240.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
